@@ -1,4 +1,5 @@
 User-agent: *
-Disallow: 
+Disallow: /cdn-cgi/l/email-protection
 
 Sitemap: https://www.fairdeal.red/sitemap.xml
+Sitemap: https://www.fairdeal.red/images_sitemap.xml
